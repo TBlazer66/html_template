@@ -1,4 +1,4 @@
-package config2;
+package config3;
 use Exporter	qw(import);
 our @EXPORT =	qw(%config);
 our %config = (
